@@ -29,3 +29,6 @@ players:
   - file: lucia-ar-player.py
     class: LuciaBot
 
+  # antonioorteu bot
+  - file: antonioorteu-xormaster.py
+    class: XorMaster
