@@ -32,3 +32,8 @@ players:
   # antonioorteu bot
   - file: antonioorteu-xormaster.py
     class: XorMaster
+
+  # manuel bot
+  - file: manuel-OP-player.py
+    class: ManuelPlayer
+
